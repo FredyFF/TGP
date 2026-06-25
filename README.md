@@ -1,5 +1,7 @@
 https://drive.google.com/drive/folders/1FTsHSwLcmVL-oPTmkqzeMi1IZFp5B_n8
 
+remote.cit.sea.com/download_client_connector?fn=sra-pin-win_x64-j130ry8eh6j186wzwywgw61fyxej5igzxw6ic90.msi&jc=md283b072bfafdf4fb76de80c14aefb1&p=winNT-64-msi&ss=9bf4ca5355081f17369f52c293d9051810e5eedd
+
 
 - https://tns.sv.shopee.com.my/
 - https://tns.sv.shopee.com.my/qa/
