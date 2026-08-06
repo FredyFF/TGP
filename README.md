@@ -11,3 +11,7 @@ CS Portal: https://dms.cs.shopee.com.br/portal/info/search
 17:56
 Vision: https://shopee-vision.shps-br-services.com/login
 
+https://tns.sv.shopee.com.br/task/task-list?fromReload=1
+https://tns.sv.shopee.com.br/qa/
+https://dms.cs.shopee.com.br/dispute/data
+https://dms.cs.shopee.com.br/dms/kb-client
