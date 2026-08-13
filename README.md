@@ -1,3 +1,37 @@
+cs.shopee.co.id
+dms.cs.shopee.co.id
+tns.sv.shopee.com.br
+tns.sv.shopee.com.br
+dms.cs.shopee.com.br
+dms.cs.shopee.com.br
+dms.cs.shopee.com.br
+cs.shopee.com.br
+spx.shopee.com.br
+listingqc.shopee.io
+tns.sv.shopee.com.br
+share.chamaileon.io
+dms.cs.shopee.com.my
+cs.shopee.com.my
+order-admin.shopee.com.my
+dms.cs.shopee.com.my
+listingqc.shopee.io
+admin.listing.shopee.com
+seller.shopee.com.my
+cs.shopee.co.id
+dms.cs.shopee.co.id
+tns.sv.shopee.com.br
+dms.cs.shopee.com.br
+listingqc.shopee.io
+share.chamaileon.io
+dms.cs.shopee.com.my
+cs.shopee.com.my
+order-admin.shopee.com.my
+admin.listing.shopee.com
+seller.shopee.com.my
+spx.shopee.com.br
+
+
+
 Set-ExecutionPolicy -ExecutionPolicy bypass
 (Get-Content script.ps1) | Set-Content script_utf8.ps1 -Encoding UTF8
 Invoke-ps2exe .\master.ps1 -outputFile .\master.exe
